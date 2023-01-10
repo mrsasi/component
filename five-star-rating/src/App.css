@@ -1,0 +1,13 @@
+.five-star-rating {
+  text-align: center;
+  margin: 100px auto;
+}
+
+.list {
+  list-style: none;
+  padding: 0px;
+}
+
+.list .list-item {
+  display: inline;
+}
